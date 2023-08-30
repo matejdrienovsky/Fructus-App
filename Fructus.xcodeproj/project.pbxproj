@@ -17,6 +17,7 @@
 		D28975FE2A9D0D58003169FC /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D28975FD2A9D0D58003169FC /* OnboardingView.swift */; };
 		D28976012A9D1432003169FC /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D28976002A9D1432003169FC /* FruitModel.swift */; };
 		D28976042A9D152E003169FC /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D28976032A9D152E003169FC /* FruitData.swift */; };
+		D2B0AEE22A9FAB440034427A /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B0AEE12A9FAB440034427A /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		D28975FD2A9D0D58003169FC /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		D28976002A9D1432003169FC /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		D28976032A9D152E003169FC /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		D2B0AEE12A9FAB440034427A /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				D222BE972A8E37DC0028A361 /* FruitCardView.swift */,
 				D28975FB2A9D0A4C003169FC /* StartButtonView.swift */,
+				D2B0AEE12A9FAB440034427A /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -197,6 +200,7 @@
 			files = (
 				D222BE982A8E37DC0028A361 /* FruitCardView.swift in Sources */,
 				D28976012A9D1432003169FC /* FruitModel.swift in Sources */,
+				D2B0AEE22A9FAB440034427A /* FruitRowView.swift in Sources */,
 				D222BE9B2A8E3AED0028A361 /* Colors.swift in Sources */,
 				D222BE8A2A8E31BA0028A361 /* ContentView.swift in Sources */,
 				D28975FE2A9D0D58003169FC /* OnboardingView.swift in Sources */,
